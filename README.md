@@ -35,6 +35,4 @@ Manual inspection and logging of rock core samples are time-consuming and prone 
 
 
 
-│   └── train.py           # Optimized training pipeline script
-├── image_3dc083.png       # Project overview documentation reference
-└── README.md# Rock-Fracture-Detection-RQD-CNN
+
